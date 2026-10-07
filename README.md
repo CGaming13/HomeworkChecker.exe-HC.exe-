@@ -5,7 +5,7 @@ I am sorry.
 
 How the program works:
 1) It is a program that will run in the windows terminal, in which you can press ALT + Enter to go fullscreen
-2) Put the numerator first than press enter, than type the denominator
+2) Put the numerator first then press enter, than type the denominator
 3) Just type numbers. Do not type letters or the program will break and infinitely loop.
 4) You may need to set compatibility to Windows XP, I wrote this in Windows XP.
 
