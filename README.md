@@ -9,7 +9,7 @@ How the program works:
 3) Just type numbers. Do not type letters or the program will break and infinitely loop.
 4) You may need to set compatibility to Windows XP, I wrote this in Windows XP.
 
-Bugs? You can eaither edit the source yourself or comtact me at j92kTwiches@gmail.com
+Bugs? You can either edit the source yourself or comtact me at j92kTwiches@gmail.com
 
 I WILL NOT fix the Denial Of Service bug because even though I have every capability to fix it,
 I just won't. Feel free to fix it, i'm going to not fix it to be different and funny
